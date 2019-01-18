@@ -1,6 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+//got this code from a online tutorial I only edited for my project, I did not write it from scratch.
+
 public class RayCastShoot : MonoBehaviour {
 	public int gunDamage = 1;                                           // Set the number of hitpoints that this gun will take away from shot objects with a health script
 	public float fireRate = 0.001f;                                      // Number in seconds which controls how often the player can fire
