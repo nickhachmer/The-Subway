@@ -10,3 +10,4 @@ The scene itself was an attempt to recreate a simple subway station.
 
 I used tutorials for help with some of the code (namely the ray cast script which I copied from an online tutorial and edited to fit my needs).
 
+Gameplay can be seen here: https://youtu.be/eS-yb8NHJu4
